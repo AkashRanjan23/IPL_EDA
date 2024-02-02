@@ -10,7 +10,7 @@ The Indian Premier League (IPL) stands as a professional Twenty20 cricket league
 
 While I may not be the most avid cricket enthusiast, I derive as much enjoyment from the sport as any other individual.
 
- <p align="center"><img src="https://i0.wp.com/ythisnews.com/wp-content/uploads/2020/07/ipl.gif?fit=755%2C389&ssl=1"  width="500px" >
+ <p align="center"><img src="[https://media3.giphy.com/media/Y2bg1nXckj3246iCuP/giphy.gif?cid=6c09b952bs5h1o97qiyqan0y8quvqorn4q4092vwoo1gdm4z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s](https://giphy.com/gifs/meta11official-esports-avatar-metaverse-1CSJunEauOLej2vbQx)" width=40 height=40>"  width="500px" >
  </p>
 
  
